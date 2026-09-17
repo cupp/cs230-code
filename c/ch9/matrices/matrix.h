@@ -1,6 +1,5 @@
 /* Create and destroy matrices and perform arithmetic operations. Demonstrates
  * the example from Chapter 9 (on Dynamic Memory).
- * Tim Bailey 2003.
  */
 
 #ifndef MATRIX_H_
